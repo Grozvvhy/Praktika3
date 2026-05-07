@@ -1,0 +1,18 @@
+﻿<Page x:Class="AgroChem.Technologist.Pages.RecipesPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Рецептуры">
+    <Grid>
+        <DataGrid x:Name="RecipesGrid" AutoGenerateColumns="False" IsReadOnly="True"
+                  SelectionChanged="OnSelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="50"/>
+                <DataGridTextColumn Header="Продукт" Binding="{Binding ProductName}" Width="200"/>
+                <DataGridTextColumn Header="Версия" Binding="{Binding Version}" Width="100"/>
+                <DataGridTextColumn Header="Статус" Binding="{Binding Status}" Width="120"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Просмотр деталей" VerticalAlignment="Bottom" HorizontalAlignment="Right"
+                Margin="10" Padding="10" Click="OnViewDetails"/>
+    </Grid>
+</Page>

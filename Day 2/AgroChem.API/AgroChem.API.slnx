@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AgroChem.API/AgroChem.API.csproj" />
+  <Project Path="AgroChem.Data/AgroChem.Data.csproj" />
+  <Project Path="AgroChem.Technologist/AgroChem.Technologist.csproj" />
+</Solution>

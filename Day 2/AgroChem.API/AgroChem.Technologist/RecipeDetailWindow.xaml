@@ -1,0 +1,8 @@
+﻿<Window x:Class="AgroChem.Technologist.RecipeDetailWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Детали рецептуры" Height="400" Width="600">
+    <Grid>
+        <TextBlock Text="Детали рецептуры (заглушка)" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+    </Grid>
+</Window>
