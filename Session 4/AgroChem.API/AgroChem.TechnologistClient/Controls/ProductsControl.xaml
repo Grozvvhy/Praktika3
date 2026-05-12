@@ -1,0 +1,43 @@
+﻿<UserControl x:Class="AgroChem.TechnologistClient.Controls.ProductsControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+            <Button Content="Добавить" Width="100" Click="AddProduct_Click"/>
+            <Button Content="Редактировать" Width="100" Margin="10,0" Click="EditProduct_Click"/>
+            <Button Content="Удалить" Width="100" Click="DeleteProduct_Click"/>
+        </StackPanel>
+        <DataGrid Grid.Row="1" Name="dgProducts" AutoGenerateColumns="False" IsReadOnly="True" SelectionMode="Single">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="50"/>
+                <DataGridTextColumn Header="Наименование" Binding="{Binding Name}" Width="200"/>
+                <DataGridTextColumn Header="Тип" Binding="{Binding Type}" Width="150"/>
+                <DataGridTextColumn Header="Форма выпуска" Binding="{Binding Form}" Width="150"/>
+                <DataGridCheckBoxColumn Header="Активен" Binding="{Binding IsActive}" Width="80"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Grid Grid.Row="2" Margin="0,10,0,0" Name="editPanel" Visibility="Collapsed">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <TextBlock Text="Редактирование продукции" FontWeight="Bold"/>
+            <TextBox Grid.Row="1" Name="txtName" Margin="0,5"/>
+            <TextBox Grid.Row="2" Name="txtType" Margin="0,5"/>
+            <TextBox Grid.Row="3" Name="txtForm" Margin="0,5"/>
+            <CheckBox Grid.Row="4" Name="chkActive" Content="Активен" Margin="0,5"/>
+            <StackPanel Grid.Row="5" Orientation="Horizontal" Margin="0,10">
+                <Button Content="Сохранить" Click="SaveProduct_Click" Width="100"/>
+                <Button Content="Отмена" Click="CancelEdit_Click" Width="100" Margin="10,0"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</UserControl>

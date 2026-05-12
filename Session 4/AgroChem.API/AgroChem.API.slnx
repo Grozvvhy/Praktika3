@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AgroChem.API/AgroChem.API.csproj" Id="46a04b59-ca98-46c4-8433-3dce0c389cf4" />
+  <Project Path="AgroChem.Data/AgroChem.Data.csproj" Id="a962d003-69e5-4c57-a3f9-7aa12fa550a1" />
+  <Project Path="AgroChem.Technologist/AgroChem.Technologist.csproj" Id="37232c80-6851-44c4-97a3-c8117ab928e6" />
+  <Project Path="AgroChem.TechnologistClient/AgroChem.TechnologistClient.csproj" Id="9c993480-3dfc-40b3-9680-e4aaba65d340" />
+</Solution>

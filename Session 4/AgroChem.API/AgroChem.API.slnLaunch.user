@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "AgroChem.API\\AgroChem.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AgroChem.TechnologistClient\\AgroChem.TechnologistClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

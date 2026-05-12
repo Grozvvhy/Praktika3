@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="AgroChem.TechnologistClient.Controls.TechMapControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <ComboBox Name="cmbRecipes" DisplayMemberPath="ProductName" SelectedValuePath="Id" 
+                  SelectionChanged="Recipe_SelectionChanged" Margin="0,0,0,10"/>
+        <DataGrid Grid.Row="1" Name="dgSteps" AutoGenerateColumns="False" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="№" Binding="{Binding StepOrder}" Width="50"/>
+                <DataGridTextColumn Header="Название" Binding="{Binding StepName}" Width="150"/>
+                <DataGridTextColumn Header="T°C" Binding="{Binding PlannedTempC}" Width="80"/>
+                <DataGridTextColumn Header="P, бар" Binding="{Binding PlannedPressureBar}" Width="80"/>
+                <DataGridTextColumn Header="Длит, мин" Binding="{Binding PlannedDurationMin}" Width="80"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>
