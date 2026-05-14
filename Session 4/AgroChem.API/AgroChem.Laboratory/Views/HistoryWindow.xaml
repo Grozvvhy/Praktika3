@@ -1,0 +1,26 @@
+﻿<Window x:Class="AgroChem.Laboratory.Views.HistoryWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="История испытаний" Height="500" Width="800" WindowStartupLocation="CenterOwner">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" FontSize="16" FontWeight="Bold" Margin="0,0,0,10" Text="{Binding Title}"/>
+        <DataGrid Grid.Row="1" Name="dgHistory" AutoGenerateColumns="False" IsReadOnly="True" SelectionChanged="DgHistory_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Дата" Binding="{Binding AnalysisDate, StringFormat='dd.MM.yyyy HH:mm'}" Width="120"/>
+                <DataGridTextColumn Header="Лаборант" Binding="{Binding AnalystName}" Width="120"/>
+                <DataGridTextColumn Header="Решение" Binding="{Binding Decision}" Width="80"/>
+                <DataGridTextColumn Header="Комментарий" Binding="{Binding AnalystComment}" Width="200"/>
+                <DataGridTextColumn Header="Параметры" Binding="{Binding ParameterNames}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,10">
+            <Button Content="Редактировать" Width="100" Click="Edit_Click" IsEnabled="{Binding CanEdit}"/>
+            <Button Content="Закрыть" Width="100" Margin="10,0,0,0" Click="Close_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+﻿<UserControl x:Class="AgroChem.TechnologistClient.Controls.MonitoringControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid Margin="10">
+        <DataGrid Name="dgActiveBatches" AutoGenerateColumns="False" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="№ партии" Binding="{Binding BatchNumber}" Width="100"/>
+                <DataGridTextColumn Header="Заказ" Binding="{Binding OrderNumber}" Width="100"/>
+                <DataGridTextColumn Header="Статус" Binding="{Binding Status}" Width="80"/>
+                <DataGridTextColumn Header="Прогресс" Binding="{Binding Steps.Count}" Width="80"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>

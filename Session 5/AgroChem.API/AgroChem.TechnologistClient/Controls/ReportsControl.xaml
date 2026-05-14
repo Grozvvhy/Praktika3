@@ -1,0 +1,10 @@
+﻿<UserControl x:Class="AgroChem.TechnologistClient.Controls.ReportsControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid Margin="10">
+        <StackPanel>
+            <Button Content="Экспорт партий в Excel" Width="200" Height="30" Click="ExportBatches_Click" Margin="0,0,0,10"/>
+            <Button Content="Экспорт отклонений в Excel" Width="200" Height="30" Click="ExportDeviations_Click"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

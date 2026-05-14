@@ -9,6 +9,10 @@
       {
         "Path": "AgroChem.TechnologistClient\\AgroChem.TechnologistClient.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "AgroChem.Laboratory\\AgroChem.Laboratory.csproj",
+        "Action": "Start"
       }
     ]
   }
