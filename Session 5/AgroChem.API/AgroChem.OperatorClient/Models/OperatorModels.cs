@@ -21,7 +21,7 @@ namespace AgroChem.OperatorClient.Models
         public decimal? PlannedTempC { get; set; }
         public decimal? PlannedPressureBar { get; set; }
         public int? PlannedDurationMin { get; set; }
-        public string Status { get; set; } // not_started, in_progress, completed
+        public string Status { get; set; }
         public decimal? ActualTempC { get; set; }
         public decimal? ActualPressureBar { get; set; }
         public int? ActualDurationMin { get; set; }
@@ -36,5 +36,13 @@ namespace AgroChem.OperatorClient.Models
                 return Brushes.Gray;
             }
         }
+    }
+
+    public class TelemetryData
+    {
+        public decimal? Temperature { get; set; }
+        public decimal? Pressure { get; set; }
+        public int? ScrewSpeed { get; set; }
+        public DateTime LastUpdate { get; set; }
     }
 }

@@ -9,7 +9,7 @@
             <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
 
-        <TextBlock Grid.Row="0" FontSize="16" FontWeight="Bold" Margin="0,0,0,10" Text="{Binding OperatorName}"/>
+        <TextBlock Grid.Row="0" FontSize="16" FontWeight="Bold" Text="{Binding OperatorName}" Margin="0,0,0,10"/>
 
         <DataGrid x:Name="dgBatches" Grid.Row="1" AutoGenerateColumns="False" IsReadOnly="True" SelectionMode="Single">
             <DataGrid.Columns>

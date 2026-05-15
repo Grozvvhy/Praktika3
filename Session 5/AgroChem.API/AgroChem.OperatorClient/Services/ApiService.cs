@@ -63,5 +63,13 @@ namespace AgroChem.OperatorClient.Services
             var response = await _client.PostAsync($"/api/operator/batch/{batchId}/step/{stepOrder}/complete", content);
             return response.IsSuccessStatusCode;
         }
+
+        public async Task<TelemetryData> GetTelemetryAsync(string equipmentName)
+        {
+            var response = await _client.GetAsync($"/api/operator/telemetry/{equipmentName}");
+            response.EnsureSuccessStatusCode();
+            var json = await response.Content.ReadAsStringAsync();
+            return JsonConvert.DeserializeObject<TelemetryData>(json);
+        }
     }
 }

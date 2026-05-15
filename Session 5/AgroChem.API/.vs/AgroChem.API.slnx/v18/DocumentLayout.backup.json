@@ -3,91 +3,95 @@
   "WorkspaceRootPath": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|c:\\\u0432\u043E\u0432\u0430\\agrochem.api\\agrochem.operatorclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|solutionrelative:agrochem.operatorclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|c:\\\u0432\u043E\u0432\u0430\\agrochem.api\\agrochem.operatorclient\\batchprogramwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|solutionrelative:agrochem.operatorclient\\batchprogramwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|c:\\\u0432\u043E\u0432\u0430\\agrochem.api\\agrochem.operatorclient\\batchprogramwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\agrochem.operatorclient\\batchprogramwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|solutionrelative:agrochem.operatorclient\\batchprogramwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A04B59-CA98-46C4-8433-3DCE0C389CF4}|AgroChem.API\\AgroChem.API.csproj|C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\agrochem.api\\controllers\\operatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A04B59-CA98-46C4-8433-3DCE0C389CF4}|AgroChem.API\\AgroChem.API.csproj|solutionrelative:agrochem.api\\controllers\\operatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|c:\\\u0432\u043E\u0432\u0430\\agrochem.api\\agrochem.operatorclient\\activebatcheswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|solutionrelative:agrochem.operatorclient\\activebatcheswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|c:\\\u0432\u043E\u0432\u0430\\agrochem.api\\agrochem.operatorclient\\activebatcheswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|solutionrelative:agrochem.operatorclient\\activebatcheswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|c:\\\u0432\u043E\u0432\u0430\\agrochem.api\\agrochem.operatorclient\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|solutionrelative:agrochem.operatorclient\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|c:\\\u0432\u043E\u0432\u0430\\agrochem.api\\agrochem.operatorclient\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|solutionrelative:agrochem.operatorclient\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|c:\\\u0432\u043E\u0432\u0430\\agrochem.api\\agrochem.operatorclient\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\agrochem.operatorclient\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|solutionrelative:agrochem.operatorclient\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|c:\\\u0432\u043E\u0432\u0430\\agrochem.api\\agrochem.operatorclient\\models\\operatormodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\agrochem.operatorclient\\models\\operatormodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|solutionrelative:agrochem.operatorclient\\models\\operatormodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|c:\\\u0432\u043E\u0432\u0430\\agrochem.api\\agrochem.operatorclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\agrochem.operatorclient\\batchprogramwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|solutionrelative:agrochem.operatorclient\\batchprogramwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\agrochem.operatorclient\\activebatcheswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|solutionrelative:agrochem.operatorclient\\activebatcheswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\agrochem.operatorclient\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|solutionrelative:agrochem.operatorclient\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\agrochem.operatorclient\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|solutionrelative:agrochem.operatorclient\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\agrochem.operatorclient\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|solutionrelative:agrochem.operatorclient\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\agrochem.operatorclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|solutionrelative:agrochem.operatorclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\agrochem.operatorclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|solutionrelative:agrochem.operatorclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|c:\\\u0432\u043E\u0432\u0430\\agrochem.api\\agrochem.operatorclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\agrochem.operatorclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEB18F74-9CFF-4268-B4C8-FDC4DB295A2E}|AgroChem.OperatorClient\\AgroChem.OperatorClient.csproj|solutionrelative:agrochem.operatorclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A04B59-CA98-46C4-8433-3DCE0C389CF4}|AgroChem.API\\AgroChem.API.csproj|c:\\\u0432\u043E\u0432\u0430\\agrochem.api\\agrochem.api\\controllers\\operatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A04B59-CA98-46C4-8433-3DCE0C389CF4}|AgroChem.API\\AgroChem.API.csproj|solutionrelative:agrochem.api\\controllers\\operatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|c:\\\u0432\u043E\u0432\u0430\\agrochem.api\\agrochem.laboratory\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\agrochem.laboratory\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|solutionrelative:agrochem.laboratory\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|c:\\\u0432\u043E\u0432\u0430\\agrochem.api\\agrochem.laboratory\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\agrochem.laboratory\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|solutionrelative:agrochem.laboratory\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|c:\\\u0432\u043E\u0432\u0430\\agrochem.api\\agrochem.laboratory\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\agrochem.laboratory\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|solutionrelative:agrochem.laboratory\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|c:\\\u0432\u043E\u0432\u0430\\agrochem.api\\agrochem.laboratory\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\agrochem.laboratory\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|solutionrelative:agrochem.laboratory\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|c:\\\u0432\u043E\u0432\u0430\\agrochem.api\\agrochem.laboratory\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\agrochem.laboratory\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|solutionrelative:agrochem.laboratory\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|c:\\\u0432\u043E\u0432\u0430\\agrochem.api\\agrochem.laboratory\\views\\qualitycontrolwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\agrochem.laboratory\\views\\qualitycontrolwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|solutionrelative:agrochem.laboratory\\views\\qualitycontrolwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|c:\\\u0432\u043E\u0432\u0430\\agrochem.api\\agrochem.laboratory\\views\\qualitycontrolwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\agrochem.laboratory\\views\\qualitycontrolwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|solutionrelative:agrochem.laboratory\\views\\qualitycontrolwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|c:\\\u0432\u043E\u0432\u0430\\agrochem.api\\agrochem.laboratory\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\agrochem.laboratory\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|solutionrelative:agrochem.laboratory\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|c:\\\u0432\u043E\u0432\u0430\\agrochem.api\\agrochem.laboratory\\models\\qualitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\agrochem.laboratory\\models\\qualitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|solutionrelative:agrochem.laboratory\\models\\qualitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|c:\\\u0432\u043E\u0432\u0430\\agrochem.api\\agrochem.laboratory\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\agrochem.laboratory\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63055785-C3D0-4EC1-AF8F-756963704F8A}|AgroChem.Laboratory\\AgroChem.Laboratory.csproj|solutionrelative:agrochem.laboratory\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -494,7 +498,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -506,7 +510,127 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperatorController.cs",
+              "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.API\\Controllers\\OperatorController.cs",
+              "RelativeDocumentMoniker": "AgroChem.API\\Controllers\\OperatorController.cs",
+              "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.API\\Controllers\\OperatorController.cs*",
+              "RelativeToolTip": "AgroChem.API\\Controllers\\OperatorController.cs*",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAuwBIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T12:58:19.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BatchProgramWindow.xaml",
+              "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\BatchProgramWindow.xaml",
+              "RelativeDocumentMoniker": "AgroChem.OperatorClient\\BatchProgramWindow.xaml",
+              "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\BatchProgramWindow.xaml*",
+              "RelativeToolTip": "AgroChem.OperatorClient\\BatchProgramWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-14T13:00:56.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "AgroChem.OperatorClient\\Services\\ApiService.cs",
+              "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\Services\\ApiService.cs",
+              "RelativeToolTip": "AgroChem.OperatorClient\\Services\\ApiService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwDoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T13:00:00.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ActiveBatchesWindow.xaml.cs",
+              "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\ActiveBatchesWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AgroChem.OperatorClient\\ActiveBatchesWindow.xaml.cs",
+              "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\ActiveBatchesWindow.xaml.cs",
+              "RelativeToolTip": "AgroChem.OperatorClient\\ActiveBatchesWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T13:00:41.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OperatorModels.cs",
+              "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\Models\\OperatorModels.cs",
+              "RelativeDocumentMoniker": "AgroChem.OperatorClient\\Models\\OperatorModels.cs",
+              "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\Models\\OperatorModels.cs",
+              "RelativeToolTip": "AgroChem.OperatorClient\\Models\\OperatorModels.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAA8wCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T12:59:46.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BatchProgramWindow.xaml.cs",
+              "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\BatchProgramWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AgroChem.OperatorClient\\BatchProgramWindow.xaml.cs",
+              "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\BatchProgramWindow.xaml.cs",
+              "RelativeToolTip": "AgroChem.OperatorClient\\BatchProgramWindow.xaml.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAuwH8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T13:01:03.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ActiveBatchesWindow.xaml",
+              "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\ActiveBatchesWindow.xaml",
+              "RelativeDocumentMoniker": "AgroChem.OperatorClient\\ActiveBatchesWindow.xaml",
+              "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\ActiveBatchesWindow.xaml",
+              "RelativeToolTip": "AgroChem.OperatorClient\\ActiveBatchesWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-14T13:00:34.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AgroChem.OperatorClient\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "AgroChem.OperatorClient\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T13:00:21.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "AgroChem.OperatorClient\\LoginWindow.xaml",
+              "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\LoginWindow.xaml",
+              "RelativeToolTip": "AgroChem.OperatorClient\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-14T13:00:15.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AgroChem.OperatorClient\\App.xaml.cs",
+              "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\App.xaml.cs",
+              "RelativeToolTip": "AgroChem.OperatorClient\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T13:08:35.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\App.xaml",
               "RelativeDocumentMoniker": "AgroChem.OperatorClient\\App.xaml",
@@ -518,120 +642,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BatchProgramWindow.xaml.cs",
-              "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\BatchProgramWindow.xaml.cs",
-              "RelativeDocumentMoniker": "AgroChem.OperatorClient\\BatchProgramWindow.xaml.cs",
-              "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\BatchProgramWindow.xaml.cs",
-              "RelativeToolTip": "AgroChem.OperatorClient\\BatchProgramWindow.xaml.cs",
-              "ViewState": "AgIAAMoAAAAAAAAAAAAuwN0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T13:01:03.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BatchProgramWindow.xaml",
-              "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\BatchProgramWindow.xaml",
-              "RelativeDocumentMoniker": "AgroChem.OperatorClient\\BatchProgramWindow.xaml",
-              "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\BatchProgramWindow.xaml",
-              "RelativeToolTip": "AgroChem.OperatorClient\\BatchProgramWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-14T13:00:56.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ActiveBatchesWindow.xaml.cs",
-              "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\ActiveBatchesWindow.xaml.cs",
-              "RelativeDocumentMoniker": "AgroChem.OperatorClient\\ActiveBatchesWindow.xaml.cs",
-              "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\ActiveBatchesWindow.xaml.cs",
-              "RelativeToolTip": "AgroChem.OperatorClient\\ActiveBatchesWindow.xaml.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAuwCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T13:00:41.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ActiveBatchesWindow.xaml",
-              "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\ActiveBatchesWindow.xaml",
-              "RelativeDocumentMoniker": "AgroChem.OperatorClient\\ActiveBatchesWindow.xaml",
-              "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\ActiveBatchesWindow.xaml",
-              "RelativeToolTip": "AgroChem.OperatorClient\\ActiveBatchesWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-14T13:00:34.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginWindow.xaml.cs",
-              "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\LoginWindow.xaml.cs",
-              "RelativeDocumentMoniker": "AgroChem.OperatorClient\\LoginWindow.xaml.cs",
-              "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\LoginWindow.xaml.cs",
-              "RelativeToolTip": "AgroChem.OperatorClient\\LoginWindow.xaml.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAuwD0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T13:00:21.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\LoginWindow.xaml",
-              "RelativeDocumentMoniker": "AgroChem.OperatorClient\\LoginWindow.xaml",
-              "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\LoginWindow.xaml",
-              "RelativeToolTip": "AgroChem.OperatorClient\\LoginWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-14T13:00:15.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ApiService.cs",
-              "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\Services\\ApiService.cs",
-              "RelativeDocumentMoniker": "AgroChem.OperatorClient\\Services\\ApiService.cs",
-              "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\Services\\ApiService.cs",
-              "RelativeToolTip": "AgroChem.OperatorClient\\Services\\ApiService.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAA8wEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T13:00:00.407Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OperatorModels.cs",
-              "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\Models\\OperatorModels.cs",
-              "RelativeDocumentMoniker": "AgroChem.OperatorClient\\Models\\OperatorModels.cs",
-              "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\Models\\OperatorModels.cs",
-              "RelativeToolTip": "AgroChem.OperatorClient\\Models\\OperatorModels.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAA8wDMAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T12:59:46.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\MainWindow.xaml",
               "RelativeDocumentMoniker": "AgroChem.OperatorClient\\MainWindow.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\MainWindow.xaml",
               "RelativeToolTip": "AgroChem.OperatorClient\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-14T12:58:38.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T12:58:38.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.OperatorClient\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.OperatorClient\\MainWindow.xaml.cs",
@@ -639,25 +661,11 @@
               "RelativeToolTip": "AgroChem.OperatorClient\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T12:58:38.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T12:58:38.584Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "OperatorController.cs",
-              "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.API\\Controllers\\OperatorController.cs",
-              "RelativeDocumentMoniker": "AgroChem.API\\Controllers\\OperatorController.cs",
-              "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.API\\Controllers\\OperatorController.cs",
-              "RelativeToolTip": "AgroChem.API\\Controllers\\OperatorController.cs",
-              "ViewState": "AgIAAPUAAAAAAAAAAAAuwAoBAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T12:58:19.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Laboratory\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.Laboratory\\MainWindow.xaml.cs",
@@ -665,12 +673,11 @@
               "RelativeToolTip": "AgroChem.Laboratory\\MainWindow.xaml.cs",
               "ViewState": "AgIAABEAAAAAAAAAAIA3wCAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T12:19:42.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T12:19:42.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Laboratory\\App.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.Laboratory\\App.xaml.cs",
@@ -678,24 +685,22 @@
               "RelativeToolTip": "AgroChem.Laboratory\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T12:20:32.887Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T12:20:32.887Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Laboratory\\App.xaml",
               "RelativeDocumentMoniker": "AgroChem.Laboratory\\App.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Laboratory\\App.xaml",
               "RelativeToolTip": "AgroChem.Laboratory\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-14T12:20:27.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T12:20:27.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "LoginWindow.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Laboratory\\LoginWindow.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.Laboratory\\LoginWindow.xaml.cs",
@@ -703,24 +708,22 @@
               "RelativeToolTip": "AgroChem.Laboratory\\LoginWindow.xaml.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAwwDcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T12:20:51.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T12:20:51.759Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Laboratory\\MainWindow.xaml",
               "RelativeDocumentMoniker": "AgroChem.Laboratory\\MainWindow.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Laboratory\\MainWindow.xaml",
               "RelativeToolTip": "AgroChem.Laboratory\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-14T12:19:43.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T12:19:43.075Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "QualityControlWindow.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Laboratory\\Views\\QualityControlWindow.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.Laboratory\\Views\\QualityControlWindow.xaml.cs",
@@ -728,36 +731,33 @@
               "RelativeToolTip": "AgroChem.Laboratory\\Views\\QualityControlWindow.xaml.cs",
               "ViewState": "AgIAAKUAAAAAAAAAAAAwwMYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T12:22:28.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T12:22:28.622Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "QualityControlWindow.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Laboratory\\Views\\QualityControlWindow.xaml",
               "RelativeDocumentMoniker": "AgroChem.Laboratory\\Views\\QualityControlWindow.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Laboratory\\Views\\QualityControlWindow.xaml",
               "RelativeToolTip": "AgroChem.Laboratory\\Views\\QualityControlWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-14T12:22:22.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T12:22:22.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Laboratory\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "AgroChem.Laboratory\\LoginWindow.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Laboratory\\LoginWindow.xaml",
               "RelativeToolTip": "AgroChem.Laboratory\\LoginWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-14T12:20:45.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T12:20:45.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "QualityModels.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Laboratory\\Models\\QualityModels.cs",
               "RelativeDocumentMoniker": "AgroChem.Laboratory\\Models\\QualityModels.cs",
@@ -765,12 +765,11 @@
               "RelativeToolTip": "AgroChem.Laboratory\\Models\\QualityModels.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAwwE8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T12:21:51.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T12:21:51.283Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "ApiService.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Laboratory\\Services\\ApiService.cs",
               "RelativeDocumentMoniker": "AgroChem.Laboratory\\Services\\ApiService.cs",
@@ -778,12 +777,11 @@
               "RelativeToolTip": "AgroChem.Laboratory\\Services\\ApiService.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAcwEoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-14T12:21:36.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-14T12:21:36.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "AgroChem.API\\Controllers\\AuthController.cs",
@@ -791,12 +789,11 @@
               "RelativeToolTip": "AgroChem.API\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAFwAAAAAAAAAAAAowHQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:50:51.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:50:51.882Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.API\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "AgroChem.API\\Services\\AuthService.cs",
@@ -804,12 +801,11 @@
               "RelativeToolTip": "AgroChem.API\\Services\\AuthService.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:47:32.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:47:32.818Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Web.config",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.API\\Web.config",
               "RelativeDocumentMoniker": "AgroChem.API\\Web.config",
@@ -822,7 +818,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "EquipmentController.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.API\\Controllers\\EquipmentController.cs",
               "RelativeDocumentMoniker": "AgroChem.API\\Controllers\\EquipmentController.cs",
@@ -830,12 +826,11 @@
               "RelativeToolTip": "AgroChem.API\\Controllers\\EquipmentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:55:40.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:55:40.301Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "ProductionBatchesController.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.API\\Controllers\\ProductionBatchesController.cs",
               "RelativeDocumentMoniker": "AgroChem.API\\Controllers\\ProductionBatchesController.cs",
@@ -843,12 +838,11 @@
               "RelativeToolTip": "AgroChem.API\\Controllers\\ProductionBatchesController.cs",
               "ViewState": "AgIAAFgAAAAAAAAAAAAtwGcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:59:04.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:59:04.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "TechnologicalCardsController.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.API\\Controllers\\TechnologicalCardsController.cs",
               "RelativeDocumentMoniker": "AgroChem.API\\Controllers\\TechnologicalCardsController.cs",
@@ -856,12 +850,11 @@
               "RelativeToolTip": "AgroChem.API\\Controllers\\TechnologicalCardsController.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAtwBAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:58:43.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:58:43.746Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "QualityController.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.API\\Controllers\\QualityController.cs",
               "RelativeDocumentMoniker": "AgroChem.API\\Controllers\\QualityController.cs",
@@ -869,12 +862,11 @@
               "RelativeToolTip": "AgroChem.API\\Controllers\\QualityController.cs",
               "ViewState": "AgIAAJ8AAAAAAAAAAAAgwK0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T10:38:36.096Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T10:38:36.096Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "bootstrap.css.map",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.API\\Content\\bootstrap.css.map",
               "RelativeDocumentMoniker": "AgroChem.API\\Content\\bootstrap.css.map",
@@ -882,12 +874,11 @@
               "RelativeToolTip": "AgroChem.API\\Content\\bootstrap.css.map",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAACTYAEAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-05-12T12:11:26.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T12:11:26.833Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "RegisterWindow.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Windows\\RegisterWindow.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\Windows\\RegisterWindow.xaml.cs",
@@ -895,36 +886,33 @@
               "RelativeToolTip": "AgroChem.TechnologistClient\\Windows\\RegisterWindow.xaml.cs",
               "ViewState": "AgIAAIEAAAAAAAAAAAAAAJ4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T09:11:49.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:11:49.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "RegisterWindow.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Windows\\RegisterWindow.xaml",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\Windows\\RegisterWindow.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Windows\\RegisterWindow.xaml",
               "RelativeToolTip": "AgroChem.TechnologistClient\\Windows\\RegisterWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-12T09:11:44.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:11:44.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Windows\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\Windows\\LoginWindow.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Windows\\LoginWindow.xaml",
               "RelativeToolTip": "AgroChem.TechnologistClient\\Windows\\LoginWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-12T09:11:23.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:11:23.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.API\\Models\\Product.cs",
               "RelativeDocumentMoniker": "AgroChem.API\\Models\\Product.cs",
@@ -932,12 +920,11 @@
               "RelativeToolTip": "AgroChem.API\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-13T06:41:22.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-13T06:41:22.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "ApiService.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Services\\ApiService.cs",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\Services\\ApiService.cs",
@@ -945,12 +932,11 @@
               "RelativeToolTip": "AgroChem.TechnologistClient\\Services\\ApiService.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAAUwDkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T09:10:39.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:10:39.903Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.API\\Startup.cs",
               "RelativeDocumentMoniker": "AgroChem.API\\Startup.cs",
@@ -958,12 +944,11 @@
               "RelativeToolTip": "AgroChem.API\\Startup.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:42:03.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:42:03.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "RecipesController.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.API\\Controllers\\RecipesController.cs",
               "RelativeDocumentMoniker": "AgroChem.API\\Controllers\\RecipesController.cs",
@@ -971,12 +956,11 @@
               "RelativeToolTip": "AgroChem.API\\Controllers\\RecipesController.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAqwBAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:58:26.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:58:26.675Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.API\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "AgroChem.API\\Controllers\\ProductsController.cs",
@@ -984,12 +968,11 @@
               "RelativeToolTip": "AgroChem.API\\Controllers\\ProductsController.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAiwFcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:51:38.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:51:38.877Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "RolesController.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.API\\Helpers\\RolesController.cs",
               "RelativeDocumentMoniker": "AgroChem.API\\Helpers\\RolesController.cs",
@@ -997,12 +980,11 @@
               "RelativeToolTip": "AgroChem.API\\Helpers\\RolesController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:57:30.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:57:30.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "RawMaterialsController.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.API\\Helpers\\RawMaterialsController.cs",
               "RelativeDocumentMoniker": "AgroChem.API\\Helpers\\RawMaterialsController.cs",
@@ -1010,12 +992,11 @@
               "RelativeToolTip": "AgroChem.API\\Helpers\\RawMaterialsController.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAqwA8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:51:56.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:51:56.841Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "LoginWindow.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Windows\\LoginWindow.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\Windows\\LoginWindow.xaml.cs",
@@ -1023,12 +1004,11 @@
               "RelativeToolTip": "AgroChem.TechnologistClient\\Windows\\LoginWindow.xaml.cs",
               "ViewState": "AgIAAGwAAAAAAAAAAAAIwIEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T09:11:32.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:11:32.44Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\MainWindow.xaml.cs",
@@ -1036,12 +1016,11 @@
               "RelativeToolTip": "AgroChem.TechnologistClient\\MainWindow.xaml.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAuwCMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T09:07:35.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:07:35.955Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\App.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\App.xaml.cs",
@@ -1049,24 +1028,22 @@
               "RelativeToolTip": "AgroChem.TechnologistClient\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T09:16:34.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:16:34.796Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\App.xaml",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\App.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\App.xaml",
               "RelativeToolTip": "AgroChem.TechnologistClient\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-12T09:16:28.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:16:28.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "ExtruderControl.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\ExtruderControl.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\Controls\\ExtruderControl.xaml.cs",
@@ -1074,12 +1051,11 @@
               "RelativeToolTip": "AgroChem.TechnologistClient\\Controls\\ExtruderControl.xaml.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAywBkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T09:16:16.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:16:16.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "CaptchaHelper.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Helpers\\CaptchaHelper.cs",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\Helpers\\CaptchaHelper.cs",
@@ -1087,12 +1063,11 @@
               "RelativeToolTip": "AgroChem.TechnologistClient\\Helpers\\CaptchaHelper.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAAADgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T09:10:55.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:10:55.815Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "MonitoringControl.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\MonitoringControl.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\Controls\\MonitoringControl.xaml.cs",
@@ -1100,24 +1075,22 @@
               "RelativeToolTip": "AgroChem.TechnologistClient\\Controls\\MonitoringControl.xaml.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAqwCUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T09:15:14.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:15:14.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "ExtruderControl.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\ExtruderControl.xaml",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\Controls\\ExtruderControl.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\ExtruderControl.xaml",
               "RelativeToolTip": "AgroChem.TechnologistClient\\Controls\\ExtruderControl.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-12T09:16:11.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:16:11.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "ReportsControl.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\ReportsControl.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\Controls\\ReportsControl.xaml.cs",
@@ -1125,24 +1098,22 @@
               "RelativeToolTip": "AgroChem.TechnologistClient\\Controls\\ReportsControl.xaml.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAswC4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T09:15:58.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:15:58.58Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "ReportsControl.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\ReportsControl.xaml",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\Controls\\ReportsControl.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\ReportsControl.xaml",
               "RelativeToolTip": "AgroChem.TechnologistClient\\Controls\\ReportsControl.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-12T09:15:50.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:15:50.641Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "DeviationsControl.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\DeviationsControl.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\Controls\\DeviationsControl.xaml.cs",
@@ -1150,36 +1121,33 @@
               "RelativeToolTip": "AgroChem.TechnologistClient\\Controls\\DeviationsControl.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T09:15:35.812Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:15:35.812Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "DeviationsControl.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\DeviationsControl.xaml",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\Controls\\DeviationsControl.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\DeviationsControl.xaml",
               "RelativeToolTip": "AgroChem.TechnologistClient\\Controls\\DeviationsControl.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-12T09:15:28.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:15:28.512Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "MonitoringControl.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\MonitoringControl.xaml",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\Controls\\MonitoringControl.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\MonitoringControl.xaml",
               "RelativeToolTip": "AgroChem.TechnologistClient\\Controls\\MonitoringControl.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-12T09:15:07.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:15:07.679Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "BatchesControl.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\BatchesControl.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\Controls\\BatchesControl.xaml.cs",
@@ -1187,24 +1155,22 @@
               "RelativeToolTip": "AgroChem.TechnologistClient\\Controls\\BatchesControl.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T09:14:56.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:14:56.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "BatchesControl.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\BatchesControl.xaml",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\Controls\\BatchesControl.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\BatchesControl.xaml",
               "RelativeToolTip": "AgroChem.TechnologistClient\\Controls\\BatchesControl.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-12T09:14:50.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:14:50.699Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "OrdersControl.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\OrdersControl.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\Controls\\OrdersControl.xaml.cs",
@@ -1212,24 +1178,22 @@
               "RelativeToolTip": "AgroChem.TechnologistClient\\Controls\\OrdersControl.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T09:14:35.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:14:35.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "OrdersControl.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\OrdersControl.xaml",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\Controls\\OrdersControl.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\OrdersControl.xaml",
               "RelativeToolTip": "AgroChem.TechnologistClient\\Controls\\OrdersControl.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-12T09:14:28.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:14:28.798Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "TechMapControl.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\TechMapControl.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\Controls\\TechMapControl.xaml.cs",
@@ -1237,24 +1201,22 @@
               "RelativeToolTip": "AgroChem.TechnologistClient\\Controls\\TechMapControl.xaml.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAswBoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T09:14:17.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:14:17.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "TechMapControl.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\TechMapControl.xaml",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\Controls\\TechMapControl.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\TechMapControl.xaml",
               "RelativeToolTip": "AgroChem.TechnologistClient\\Controls\\TechMapControl.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-12T09:14:10.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:14:10.22Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 60,
               "Title": "RecipesControl.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\RecipesControl.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\Controls\\RecipesControl.xaml.cs",
@@ -1262,48 +1224,44 @@
               "RelativeToolTip": "AgroChem.TechnologistClient\\Controls\\RecipesControl.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T09:13:59.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:13:59.34Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 61,
               "Title": "RecipesControl.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\RecipesControl.xaml",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\Controls\\RecipesControl.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\RecipesControl.xaml",
               "RelativeToolTip": "AgroChem.TechnologistClient\\Controls\\RecipesControl.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-12T09:13:20.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:13:20.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 62,
               "Title": "ProductsControl.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\ProductsControl.xaml",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\Controls\\ProductsControl.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\ProductsControl.xaml",
               "RelativeToolTip": "AgroChem.TechnologistClient\\Controls\\ProductsControl.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-12T09:12:33.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:12:33.839Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 63,
               "Title": "DashboardControl.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\DashboardControl.xaml",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\Controls\\DashboardControl.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\DashboardControl.xaml",
               "RelativeToolTip": "AgroChem.TechnologistClient\\Controls\\DashboardControl.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-12T09:12:14.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:12:14.609Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 64,
               "Title": "ProductsControl.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\ProductsControl.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\Controls\\ProductsControl.xaml.cs",
@@ -1311,12 +1269,11 @@
               "RelativeToolTip": "AgroChem.TechnologistClient\\Controls\\ProductsControl.xaml.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAswD8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T09:12:39.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:12:39.452Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 65,
               "Title": "DashboardControl.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Controls\\DashboardControl.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\Controls\\DashboardControl.xaml.cs",
@@ -1324,24 +1281,22 @@
               "RelativeToolTip": "AgroChem.TechnologistClient\\Controls\\DashboardControl.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T09:12:22.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:12:22.852Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 66,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\MainWindow.xaml",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\MainWindow.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\MainWindow.xaml",
               "RelativeToolTip": "AgroChem.TechnologistClient\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-12T09:07:36.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:07:36.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 67,
               "Title": "Models.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.TechnologistClient\\Models\\Models.cs",
               "RelativeDocumentMoniker": "AgroChem.TechnologistClient\\Models\\Models.cs",
@@ -1349,24 +1304,22 @@
               "RelativeToolTip": "AgroChem.TechnologistClient\\Models\\Models.cs",
               "ViewState": "AgIAAFkAAAAAAAAAAAAuwGIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T09:10:02.323Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-12T09:10:02.323Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 68,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\MainWindow.xaml",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\MainWindow.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\MainWindow.xaml",
               "RelativeToolTip": "AgroChem.Technologist\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-07T11:00:29.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T11:00:29.624Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 74,
               "Title": "RawMaterialsPage.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\RawMaterialsPage.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\Pages\\RawMaterialsPage.xaml.cs",
@@ -1374,12 +1327,11 @@
               "RelativeToolTip": "AgroChem.Technologist\\Pages\\RawMaterialsPage.xaml.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAYwBgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T10:43:26.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T10:43:26.023Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 70,
               "Title": "UsersPage.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\UsersPage.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\Pages\\UsersPage.xaml.cs",
@@ -1387,12 +1339,11 @@
               "RelativeToolTip": "AgroChem.Technologist\\Pages\\UsersPage.xaml.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAAACAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T10:46:40.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T10:46:40.575Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 75,
               "Title": "ProductsPage.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\ProductsPage.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\Pages\\ProductsPage.xaml.cs",
@@ -1400,12 +1351,11 @@
               "RelativeToolTip": "AgroChem.Technologist\\Pages\\ProductsPage.xaml.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAYwCQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T10:42:24.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T10:42:24.591Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 69,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\MainWindow.xaml.cs",
@@ -1413,24 +1363,22 @@
               "RelativeToolTip": "AgroChem.Technologist\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAiwBYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T11:00:34.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T11:00:34.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 83,
               "Title": "UsersPage.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\UsersPage.xaml",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\Pages\\UsersPage.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\UsersPage.xaml",
               "RelativeToolTip": "AgroChem.Technologist\\Pages\\UsersPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-08T10:46:27.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T10:46:27.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 73,
               "Title": "RecipesPage.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\RecipesPage.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\Pages\\RecipesPage.xaml.cs",
@@ -1438,12 +1386,11 @@
               "RelativeToolTip": "AgroChem.Technologist\\Pages\\RecipesPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T10:43:39.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T10:43:39.72Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 72,
               "Title": "RolesPage.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\RolesPage.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\Pages\\RolesPage.xaml.cs",
@@ -1451,12 +1398,11 @@
               "RelativeToolTip": "AgroChem.Technologist\\Pages\\RolesPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T10:47:00.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T10:47:00.719Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 87,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Helpers\\ApiResponse.cs",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\Helpers\\ApiResponse.cs",
@@ -1464,48 +1410,44 @@
               "RelativeToolTip": "AgroChem.Technologist\\Helpers\\ApiResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T10:52:25.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T10:52:25.315Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 84,
               "Title": "EquipmentPage.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\EquipmentPage.xaml",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\Pages\\EquipmentPage.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\EquipmentPage.xaml",
               "RelativeToolTip": "AgroChem.Technologist\\Pages\\EquipmentPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-08T10:45:55.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T10:45:55.334Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 85,
               "Title": "RawMaterialsPage.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\RawMaterialsPage.xaml",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\Pages\\RawMaterialsPage.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\RawMaterialsPage.xaml",
               "RelativeToolTip": "AgroChem.Technologist\\Pages\\RawMaterialsPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-08T10:43:17.773Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T10:43:17.773Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 86,
               "Title": "ProductsPage.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\ProductsPage.xaml",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\Pages\\ProductsPage.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\ProductsPage.xaml",
               "RelativeToolTip": "AgroChem.Technologist\\Pages\\ProductsPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-08T10:42:13.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T10:42:13.907Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 71,
               "Title": "TechnologicalCardsPage.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\TechnologicalCardsPage.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\Pages\\TechnologicalCardsPage.xaml.cs",
@@ -1513,12 +1455,11 @@
               "RelativeToolTip": "AgroChem.Technologist\\Pages\\TechnologicalCardsPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAwAEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T11:10:52.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T11:10:52.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 76,
               "Title": "ProductionBatchesPage.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\ProductionBatchesPage.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\Pages\\ProductionBatchesPage.xaml.cs",
@@ -1526,12 +1467,11 @@
               "RelativeToolTip": "AgroChem.Technologist\\Pages\\ProductionBatchesPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T11:11:21.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T11:11:21.123Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 77,
               "Title": "MonitoringPage.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\MonitoringPage.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\Pages\\MonitoringPage.xaml.cs",
@@ -1539,12 +1479,11 @@
               "RelativeToolTip": "AgroChem.Technologist\\Pages\\MonitoringPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T10:47:46.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T10:47:46.743Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 78,
               "Title": "LabTestsPage.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\LabTestsPage.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\Pages\\LabTestsPage.xaml.cs",
@@ -1552,12 +1491,11 @@
               "RelativeToolTip": "AgroChem.Technologist\\Pages\\LabTestsPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T11:11:44.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T11:11:44.043Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 79,
               "Title": "EquipmentPage.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\EquipmentPage.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\Pages\\EquipmentPage.xaml.cs",
@@ -1565,12 +1503,11 @@
               "RelativeToolTip": "AgroChem.Technologist\\Pages\\EquipmentPage.xaml.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAYwCQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T10:46:15.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T10:46:15.497Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 80,
               "Title": "EditProductWindow.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\EditProductWindow.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\Pages\\EditProductWindow.xaml.cs",
@@ -1578,12 +1515,11 @@
               "RelativeToolTip": "AgroChem.Technologist\\Pages\\EditProductWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T10:42:46.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T10:42:46.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 81,
               "Title": "BatchesPage.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\BatchesPage.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\Pages\\BatchesPage.xaml.cs",
@@ -1591,24 +1527,22 @@
               "RelativeToolTip": "AgroChem.Technologist\\Pages\\BatchesPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T10:47:20.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T10:47:20.191Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 82,
               "Title": "MonitoringPage.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\MonitoringPage.xaml",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\Pages\\MonitoringPage.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\MonitoringPage.xaml",
               "RelativeToolTip": "AgroChem.Technologist\\Pages\\MonitoringPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-08T10:47:38.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T10:47:38.518Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 88,
               "Title": "AuthWindow.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\AuthWindow.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\AuthWindow.xaml.cs",
@@ -1616,24 +1550,22 @@
               "RelativeToolTip": "AgroChem.Technologist\\AuthWindow.xaml.cs",
               "ViewState": "AgIAAFoAAAAAAAAAAAAAwHYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T10:41:40.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T10:41:40.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 89,
               "Title": "AuthWindow.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\AuthWindow.xaml",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\AuthWindow.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\AuthWindow.xaml",
               "RelativeToolTip": "AgroChem.Technologist\\AuthWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-08T10:41:29.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T10:41:29.043Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 90,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\App.xaml.cs",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\App.xaml.cs",
@@ -1641,36 +1573,33 @@
               "RelativeToolTip": "AgroChem.Technologist\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:59:58.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:59:58.174Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 91,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\App.xaml",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\App.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\App.xaml",
               "RelativeToolTip": "AgroChem.Technologist\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-08T10:41:49.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T10:41:49.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 92,
               "Title": "RecipesPage.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\RecipesPage.xaml",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\Pages\\RecipesPage.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\RecipesPage.xaml",
               "RelativeToolTip": "AgroChem.Technologist\\Pages\\RecipesPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-07T11:10:44.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T11:10:44.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 93,
               "Title": "CaptchaGenerator.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Helpers\\CaptchaGenerator.cs",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\Helpers\\CaptchaGenerator.cs",
@@ -1678,60 +1607,55 @@
               "RelativeToolTip": "AgroChem.Technologist\\Helpers\\CaptchaGenerator.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAcwCIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T10:45:36.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T10:45:36.53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 94,
               "Title": "EditProductWindow.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\EditProductWindow.xaml",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\Pages\\EditProductWindow.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\EditProductWindow.xaml",
               "RelativeToolTip": "AgroChem.Technologist\\Pages\\EditProductWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-08T10:42:38.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T10:42:38.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 95,
               "Title": "BatchesPage.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\BatchesPage.xaml",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\Pages\\BatchesPage.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\BatchesPage.xaml",
               "RelativeToolTip": "AgroChem.Technologist\\Pages\\BatchesPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-08T10:47:13.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T10:47:13.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 96,
               "Title": "RolesPage.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\RolesPage.xaml",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\Pages\\RolesPage.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\RolesPage.xaml",
               "RelativeToolTip": "AgroChem.Technologist\\Pages\\RolesPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-08T10:46:53.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T10:46:53.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 101,
               "Title": "TechnologicalCardsPage.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\TechnologicalCardsPage.xaml",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\Pages\\TechnologicalCardsPage.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\TechnologicalCardsPage.xaml",
               "RelativeToolTip": "AgroChem.Technologist\\Pages\\TechnologicalCardsPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-07T11:10:26.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T11:10:26.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 105,
+              "DocumentIndex": 106,
               "Title": "bootstrap-reboot.min.css.map",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.API\\Content\\bootstrap-reboot.min.css.map",
               "RelativeDocumentMoniker": "AgroChem.API\\Content\\bootstrap-reboot.min.css.map",
@@ -1739,12 +1663,11 @@
               "RelativeToolTip": "AgroChem.API\\Content\\bootstrap-reboot.min.css.map",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-05-07T11:06:05.168Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T11:06:05.168Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 98,
               "Title": "CaptchaGenerator.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.API\\Helpers\\CaptchaGenerator.cs",
               "RelativeDocumentMoniker": "AgroChem.API\\Helpers\\CaptchaGenerator.cs",
@@ -1752,12 +1675,11 @@
               "RelativeToolTip": "AgroChem.API\\Helpers\\CaptchaGenerator.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAYwB4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T10:40:23.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-08T10:40:23.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
+              "DocumentIndex": 97,
               "Title": "LabTestsController.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.API\\Controllers\\LabTestsController.cs",
               "RelativeDocumentMoniker": "AgroChem.API\\Controllers\\LabTestsController.cs",
@@ -1765,36 +1687,33 @@
               "RelativeToolTip": "AgroChem.API\\Controllers\\LabTestsController.cs",
               "ViewState": "AgIAAJUAAAAAAAAAAAAswJ8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:59:36.235Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:59:36.235Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 99,
               "Title": "LabTestsPage.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\LabTestsPage.xaml",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\Pages\\LabTestsPage.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\LabTestsPage.xaml",
               "RelativeToolTip": "AgroChem.Technologist\\Pages\\LabTestsPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-07T11:11:35.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T11:11:35.558Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 100,
               "Title": "ProductionBatchesPage.xaml",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\ProductionBatchesPage.xaml",
               "RelativeDocumentMoniker": "AgroChem.Technologist\\Pages\\ProductionBatchesPage.xaml",
               "ToolTip": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Technologist\\Pages\\ProductionBatchesPage.xaml",
               "RelativeToolTip": "AgroChem.Technologist\\Pages\\ProductionBatchesPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-05-07T11:11:09.621Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T11:11:09.621Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 107,
+              "DocumentIndex": 108,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.API\\Helpers\\UsersController.cs",
               "RelativeDocumentMoniker": "AgroChem.API\\Helpers\\UsersController.cs",
@@ -1802,12 +1721,11 @@
               "RelativeToolTip": "AgroChem.API\\Helpers\\UsersController.cs",
               "ViewState": "AgIAAIcAAAAAAAAAAAAzwIwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:57:10.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:57:10.478Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 108,
+              "DocumentIndex": 109,
               "Title": "PasswordHasher.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.API\\Helpers\\PasswordHasher.cs",
               "RelativeDocumentMoniker": "AgroChem.API\\Helpers\\PasswordHasher.cs",
@@ -1815,12 +1733,11 @@
               "RelativeToolTip": "AgroChem.API\\Helpers\\PasswordHasher.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAYwAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:56:50.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:56:50.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 109,
+              "DocumentIndex": 110,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.API\\Helpers\\ApiResponse.cs",
               "RelativeDocumentMoniker": "AgroChem.API\\Helpers\\ApiResponse.cs",
@@ -1828,12 +1745,11 @@
               "RelativeToolTip": "AgroChem.API\\Helpers\\ApiResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:51:17.371Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:51:17.371Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 106,
+              "DocumentIndex": 107,
               "Title": "WebApiConfig.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.API\\App_Start\\WebApiConfig.cs",
               "RelativeDocumentMoniker": "AgroChem.API\\App_Start\\WebApiConfig.cs",
@@ -1841,12 +1757,11 @@
               "RelativeToolTip": "AgroChem.API\\App_Start\\WebApiConfig.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAuwA8AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:47:08.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:47:08.959Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 110,
+              "DocumentIndex": 111,
               "Title": "202605071039180_InitialCreate.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Data\\Migrations\\202605071039180_InitialCreate.cs",
               "RelativeDocumentMoniker": "AgroChem.Data\\Migrations\\202605071039180_InitialCreate.cs",
@@ -1854,12 +1769,11 @@
               "RelativeToolTip": "AgroChem.Data\\Migrations\\202605071039180_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:39:32.118Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:39:32.118Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 111,
+              "DocumentIndex": 112,
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Data\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "AgroChem.Data\\Migrations\\Configuration.cs",
@@ -1867,12 +1781,11 @@
               "RelativeToolTip": "AgroChem.Data\\Migrations\\Configuration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:37:13.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:37:13.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 102,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "AgroChem.Data\\AppDbContext.cs",
@@ -1880,12 +1793,11 @@
               "RelativeToolTip": "AgroChem.Data\\AppDbContext.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAmwCUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:29:16.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:29:16.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 103,
+              "DocumentIndex": 104,
               "Title": "LabTest.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Data\\Models\\LabTest.cs",
               "RelativeDocumentMoniker": "AgroChem.Data\\Models\\LabTest.cs",
@@ -1893,12 +1805,11 @@
               "RelativeToolTip": "AgroChem.Data\\Models\\LabTest.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAA4wA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:28:39.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:28:39.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 103,
               "Title": "LabTestParameterResult.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Data\\Models\\LabTestParameterResult.cs",
               "RelativeDocumentMoniker": "AgroChem.Data\\Models\\LabTestParameterResult.cs",
@@ -1906,12 +1817,11 @@
               "RelativeToolTip": "AgroChem.Data\\Models\\LabTestParameterResult.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAA4wA0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:28:27.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:28:27.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 114,
+              "DocumentIndex": 115,
               "Title": "ProductionBatch.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Data\\Models\\ProductionBatch.cs",
               "RelativeDocumentMoniker": "AgroChem.Data\\Models\\ProductionBatch.cs",
@@ -1919,12 +1829,11 @@
               "RelativeToolTip": "AgroChem.Data\\Models\\ProductionBatch.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:27:57.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:27:57.831Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 115,
+              "DocumentIndex": 116,
               "Title": "TechnologicalStep.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Data\\Models\\TechnologicalStep.cs",
               "RelativeDocumentMoniker": "AgroChem.Data\\Models\\TechnologicalStep.cs",
@@ -1932,12 +1841,11 @@
               "RelativeToolTip": "AgroChem.Data\\Models\\TechnologicalStep.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:27:49.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:27:49.678Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 116,
+              "DocumentIndex": 117,
               "Title": "TechnologicalCard.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Data\\Models\\TechnologicalCard.cs",
               "RelativeDocumentMoniker": "AgroChem.Data\\Models\\TechnologicalCard.cs",
@@ -1945,12 +1853,11 @@
               "RelativeToolTip": "AgroChem.Data\\Models\\TechnologicalCard.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:27:42.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:27:42.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 113,
+              "DocumentIndex": 114,
               "Title": "RecipeComponent.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Data\\Models\\RecipeComponent.cs",
               "RelativeDocumentMoniker": "AgroChem.Data\\Models\\RecipeComponent.cs",
@@ -1958,12 +1865,11 @@
               "RelativeToolTip": "AgroChem.Data\\Models\\RecipeComponent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:27:34.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:27:34.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 117,
+              "DocumentIndex": 118,
               "Title": "Recipe.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Data\\Models\\Recipe.cs",
               "RelativeDocumentMoniker": "AgroChem.Data\\Models\\Recipe.cs",
@@ -1971,12 +1877,11 @@
               "RelativeToolTip": "AgroChem.Data\\Models\\Recipe.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:27:24.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:27:24.868Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 104,
+              "DocumentIndex": 105,
               "Title": "Equipment.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Data\\Models\\Equipment.cs",
               "RelativeDocumentMoniker": "AgroChem.Data\\Models\\Equipment.cs",
@@ -1984,12 +1889,11 @@
               "RelativeToolTip": "AgroChem.Data\\Models\\Equipment.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAA4wAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:27:06.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:27:06.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 112,
+              "DocumentIndex": 113,
               "Title": "RawMaterial.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Data\\Models\\RawMaterial.cs",
               "RelativeDocumentMoniker": "AgroChem.Data\\Models\\RawMaterial.cs",
@@ -1997,12 +1901,11 @@
               "RelativeToolTip": "AgroChem.Data\\Models\\RawMaterial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:26:39.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:26:39.395Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 118,
+              "DocumentIndex": 119,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Data\\Models\\Product.cs",
               "RelativeDocumentMoniker": "AgroChem.Data\\Models\\Product.cs",
@@ -2010,12 +1913,11 @@
               "RelativeToolTip": "AgroChem.Data\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:26:21.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:26:21.996Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 119,
+              "DocumentIndex": 120,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Data\\Models\\User.cs",
               "RelativeDocumentMoniker": "AgroChem.Data\\Models\\User.cs",
@@ -2023,12 +1925,11 @@
               "RelativeToolTip": "AgroChem.Data\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:26:05.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:26:05.932Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 120,
+              "DocumentIndex": 121,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\\u0432\u043E\u0432\u0430\\AgroChem.API\\AgroChem.Data\\Models\\Role.cs",
               "RelativeDocumentMoniker": "AgroChem.Data\\Models\\Role.cs",
@@ -2036,8 +1937,7 @@
               "RelativeToolTip": "AgroChem.Data\\Models\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T10:25:49.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T10:25:49.468Z"
             }
           ]
         },

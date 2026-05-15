@@ -1,10 +1,11 @@
-﻿using System;
+﻿using AgroChem.OperatorClient.Models;
+using AgroChem.OperatorClient.Services;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 using System.Windows;
-using System.Windows.Media;
-using AgroChem.OperatorClient.Models;
-using AgroChem.OperatorClient.Services;
+using System.Windows.Threading;
 
 namespace AgroChem.OperatorClient
 {
@@ -15,6 +16,8 @@ namespace AgroChem.OperatorClient
         private int _batchId;
         private List<BatchProgramStep> _steps;
         private BatchProgramStep _currentStep;
+        private DispatcherTimer _telemetryTimer;
+        private string _equipmentLine = "Экструдер Линия 1";
 
         public BatchProgramWindow(ApiService api, string operatorName, int batchId)
         {
@@ -24,6 +27,10 @@ namespace AgroChem.OperatorClient
             _batchId = batchId;
             Title = $"Программа партии {batchId} – {operatorName}";
             LoadProgram();
+
+            _telemetryTimer = new DispatcherTimer { Interval = TimeSpan.FromSeconds(3) };
+            _telemetryTimer.Tick += async (s, e) => await LoadTelemetry();
+            _telemetryTimer.Start();
         }
 
         private async void LoadProgram()
@@ -34,13 +41,30 @@ namespace AgroChem.OperatorClient
                 listSteps.ItemsSource = _steps;
                 if (_steps.Any())
                 {
-                    listSteps.SelectedItem = _steps.FirstOrDefault(s => s.Status == "in_progress") ?? _steps.FirstOrDefault(s => s.Status == "not_started");
+                    var active = _steps.FirstOrDefault(s => s.Status == "in_progress");
+                    if (active != null)
+                        listSteps.SelectedItem = active;
+                    else
+                        listSteps.SelectedItem = _steps.FirstOrDefault(s => s.Status == "not_started");
                 }
             }
             catch (Exception ex)
             {
                 MessageBox.Show($"Ошибка загрузки программы: {ex.Message}");
             }
+        }
+
+        private async Task LoadTelemetry()
+        {
+            try
+            {
+                var tele = await _api.GetTelemetryAsync(_equipmentLine);
+                txtTeleTemp.Text = tele.Temperature.HasValue ? $"{tele.Temperature} °C" : "—";
+                txtTelePressure.Text = tele.Pressure.HasValue ? $"{tele.Pressure} бар" : "—";
+                txtTeleSpeed.Text = tele.ScrewSpeed.HasValue ? $"{tele.ScrewSpeed} об/мин" : "—";
+                txtTeleLastUpdate.Text = tele.LastUpdate.ToString("HH:mm:ss");
+            }
+            catch { }
         }
 
         private void ListSteps_SelectionChanged(object sender, System.Windows.Controls.SelectionChangedEventArgs e)
@@ -104,9 +128,9 @@ namespace AgroChem.OperatorClient
                     btnStartStep.IsEnabled = false;
                     btnCompleteStep.IsEnabled = false;
 
-                    // Проверка, все ли шаги завершены
                     if (_steps.All(s => s.Status == "completed"))
                     {
+                        _telemetryTimer.Stop();
                         MessageBox.Show("Все шаги выполнены! Партия завершена.");
                         Close();
                     }
@@ -128,6 +152,10 @@ namespace AgroChem.OperatorClient
                 listSteps.SelectedItem = _currentStep;
         }
 
-        private void Close_Click(object sender, RoutedEventArgs e) => Close();
+        private void Close_Click(object sender, RoutedEventArgs e)
+        {
+            _telemetryTimer.Stop();
+            Close();
+        }
     }
 }
