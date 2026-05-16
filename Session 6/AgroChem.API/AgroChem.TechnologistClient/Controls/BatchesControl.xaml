@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="AgroChem.TechnologistClient.Controls.BatchesControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid Margin="10">
+        <DataGrid Name="dgBatches" AutoGenerateColumns="False" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="№ партии" Binding="{Binding BatchNumber}" Width="100"/>
+                <DataGridTextColumn Header="Заказ" Binding="{Binding OrderNumber}" Width="100"/>
+                <DataGridTextColumn Header="Рецепт" Binding="{Binding RecipeVersion}" Width="150"/>
+                <DataGridTextColumn Header="Статус" Binding="{Binding Status}" Width="100"/>
+                <DataGridTextColumn Header="Факт, кг" Binding="{Binding ActualQuantityKg}" Width="80"/>
+                <DataGridTextColumn Header="Дата старта" Binding="{Binding StartTime,StringFormat='dd.MM.yyyy HH:mm'}" Width="130"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</UserControl>

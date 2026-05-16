@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="AgroChem.API/AgroChem.API.csproj" Id="46a04b59-ca98-46c4-8433-3dce0c389cf4" />
+  <Project Path="AgroChem.Data/AgroChem.Data.csproj" Id="a962d003-69e5-4c57-a3f9-7aa12fa550a1" />
+  <Project Path="AgroChem.Laboratory/AgroChem.Laboratory.csproj" Id="63055785-c3d0-4ec1-af8f-756963704f8a" />
+  <Project Path="AgroChem.OperatorClient/AgroChem.OperatorClient.csproj" Id="feb18f74-9cff-4268-b4c8-fdc4db295a2e" />
+  <Project Path="AgroChem.Technologist/AgroChem.Technologist.csproj" Id="37232c80-6851-44c4-97a3-c8117ab928e6" />
+  <Project Path="AgroChem.TechnologistClient/AgroChem.TechnologistClient.csproj" Id="9c993480-3dfc-40b3-9680-e4aaba65d340" />
+  <Project Path="AgroChem.Tests.API/AgroChem.Tests.API.csproj" Id="21fdf66c-a598-4f23-8104-e1da27e10cb9" />
+  <Project Path="AgroChem.Tests.Laboratory/AgroChem.Tests.Laboratory.csproj" Id="02f438c3-e6f8-427c-866d-bca23ec88567" />
+  <Project Path="AgroChem.Tests.Operator/AgroChem.Tests.Operator.csproj" Id="e0a16efe-6676-4de4-8cbc-5b858dcaf0b2" />
+  <Project Path="AgroChem.Tests.Technologist/AgroChem.Tests.Technologist.csproj" Id="b424d0b6-561e-40d8-b477-4932d44bb85d" />
+</Solution>

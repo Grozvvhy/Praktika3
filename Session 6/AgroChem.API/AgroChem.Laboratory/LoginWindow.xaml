@@ -1,0 +1,13 @@
+﻿<Window x:Class="AgroChem.Laboratory.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Вход в лабораторию" Height="300" Width="350" WindowStartupLocation="CenterScreen">
+    <StackPanel Margin="20">
+        <TextBlock Text="Логин:"/>
+        <TextBox x:Name="txtUsername" Margin="0,5,0,10" Height="30"/>
+        <TextBlock Text="Пароль:"/>
+        <PasswordBox x:Name="txtPassword" Margin="0,5,0,20" Height="30"/>
+        <Button x:Name="btnLogin" Content="Войти" Height="35" Click="BtnLogin_Click" Background="#2C3E50" Foreground="White"/>
+        <TextBlock x:Name="txtError" Foreground="Red" Margin="0,10,0,0"/>
+    </StackPanel>
+</Window>

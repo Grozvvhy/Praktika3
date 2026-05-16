@@ -1,0 +1,15 @@
+﻿<Page x:Class="AgroChem.Technologist.Pages.RawMaterialsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Сырьё">
+    <Grid>
+        <DataGrid x:Name="DataGrid" AutoGenerateColumns="False" IsReadOnly="True" SelectionMode="Single">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="50"/>
+                <DataGridTextColumn Header="Наименование" Binding="{Binding Name}" Width="200"/>
+                <DataGridTextColumn Header="Код" Binding="{Binding Code}" Width="100"/>
+                <DataGridCheckBoxColumn Header="Архив" Binding="{Binding IsArchived}" Width="60"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Page>

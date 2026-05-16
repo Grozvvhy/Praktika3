@@ -1,0 +1,25 @@
+﻿<Window x:Class="AgroChem.TechnologistClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Модуль технолога" Height="700" Width="1100" WindowStartupLocation="CenterScreen">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="Справочники">
+                <MenuItem Header="Продукция" Click="Products_Click"/>
+                <MenuItem Header="Рецептуры" Click="Recipes_Click"/>
+                <MenuItem Header="Технологические карты" Click="TechMaps_Click"/>
+            </MenuItem>
+            <MenuItem Header="Производство">
+                <MenuItem Header="Заказы" Click="Orders_Click"/>
+                <MenuItem Header="Партии" Click="Batches_Click"/>
+                <MenuItem Header="Настройка экструдера" Click="Extruder_Click"/>
+            </MenuItem>
+            <MenuItem Header="Мониторинг">
+                <MenuItem Header="Выполнение партий" Click="Monitoring_Click"/>
+                <MenuItem Header="Отклонения" Click="Deviations_Click"/>
+            </MenuItem>
+            <MenuItem Header="Отчёты" Click="Reports_Click"/>
+        </Menu>
+        <ContentControl Name="MainContent"/>
+    </DockPanel>
+</Window>

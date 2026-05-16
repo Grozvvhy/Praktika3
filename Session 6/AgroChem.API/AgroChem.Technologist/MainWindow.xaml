@@ -1,0 +1,31 @@
+﻿<Window x:Class="AgroChem.Technologist.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Модуль технолога" Height="700" Width="1200">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Menu>
+            <MenuItem Header="Справочники">
+                <MenuItem Header="Продукты" Click="NavigateToProducts"/>
+                <MenuItem Header="Сырьё" Click="NavigateToRawMaterials"/>
+                <MenuItem Header="Оборудование" Click="NavigateToEquipment"/>
+                <Separator/>
+                <MenuItem Header="Пользователи" Click="NavigateToUsers"/>
+                <MenuItem Header="Роли" Click="NavigateToRoles"/>
+            </MenuItem>
+            <MenuItem Header="Технология">
+                <MenuItem Header="Рецептуры" Click="NavigateToRecipes"/>
+                <MenuItem Header="Техкарты" Click="NavigateToTechnologicalCards"/>
+            </MenuItem>
+            <MenuItem Header="Производство">
+                <MenuItem Header="Партии" Click="NavigateToBatches"/>
+                <MenuItem Header="Мониторинг" Click="NavigateToMonitoring"/>
+            </MenuItem>
+            <MenuItem Header="Выход" Click="ExitApp"/>
+        </Menu>
+        <Frame x:Name="MainFrame" Grid.Row="1"/>
+    </Grid>
+</Window>

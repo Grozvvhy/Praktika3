@@ -1,0 +1,8 @@
+﻿<UserControl x:Class="AgroChem.TechnologistClient.Controls.DashboardControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid Margin="20">
+        <TextBlock Text="Панель управления технолога" FontSize="24" FontWeight="Bold" 
+                   HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    </Grid>
+</UserControl>
