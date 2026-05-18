@@ -1,0 +1,8 @@
+﻿<Page x:Class="AgroChem.Technologist.Pages.LabTestsPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Лабораторные испытания">
+    <Grid>
+        <TextBlock Text="Лабораторные испытания (заглушка)" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+    </Grid>
+</Page>
